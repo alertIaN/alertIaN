@@ -7,5 +7,5 @@
     height="600"
 ></widgetbot>
 </foreignObject>
+    <script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
 </svg>
-<script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
